@@ -1,0 +1,66 @@
+.css-text-align-left {
+	text-align: left;
+}
+
+.css-text-align-center {
+	text-align: center;
+}
+
+.css-text-align-right {
+	text-align: right;
+}
+
+.css-hidden {
+	display: none;
+}
+
+.css-text-bold {
+	font-weight: bold;
+}
+
+.css-text-extrabold {
+	font-weight: 1000;
+}
+
+.css-text-highlight {
+	background-color: yellow;
+}
+
+.css-text-border-dotted {border-style: dotted;}
+.css-text-border-dashed {border-style: dashed;}
+.css-text-border-solid {border-style: solid;}
+.css-text-border-double {border-style: double;}
+.css-text-border-groove {border-style: groove;}
+.css-text-border-ridge {border-style: ridge;}
+.css-text-border-inset {border-style: inset;}
+.css-text-border-outset {border-style: outset;}
+.css-text-border-mixed {border-style: dotted dashed solid double;}
+
+.css-opacity-quarter {
+  opacity: 0.25;
+}
+
+.css-opacity-half {
+  opacity: 0.5;
+}
+
+.css-text-size-large {
+  font-size: 30px;
+}
+
+.css-text-size-extralarge {
+ font-size: 40px;
+}
+
+.css-text-size-medium {
+ font-size: 25px;
+}
+
+.css-text-size-small {
+ font-size: 12px;
+}
+
+.css-text-shadow {
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+}
